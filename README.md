@@ -179,4 +179,4 @@ Include screenshots of:
 
 **Eric Paul Michael Francis**  
 Cloud & DevOps Engineer | AWS | Terraform | CI/CD  
-[GitHub](https://github.com/EricpFrancisGIT) • [LinkedIn](https://www.linkedin.com/in/eric-francis-ms/)
+[GitHub](https://github.com/EricpFrancisGIT) • [LinkedIn](https://www.linkedin.com/in/eric-francis-ms/) • [Medium] (https://medium.com/@eric.francis1103)
